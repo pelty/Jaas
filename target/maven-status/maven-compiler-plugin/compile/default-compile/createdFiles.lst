@@ -1,0 +1,6 @@
+com\doranco\flash\jaas\Jaas.class
+com\doranco\flash\jaas\JaasHandlerCallback.class
+com\doranco\flash\jaas\Jaas$1.class
+com\doranco\flash\jaas\Jaas$Action.class
+com\doranco\flash\jaas\JaasPrincipal.class
+com\doranco\flash\jaas\JaasModuleLogin.class
